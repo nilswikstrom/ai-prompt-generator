@@ -1,3 +1,5 @@
+This line is the only one made by me, the rest is purely made by that Claude fucker. Good shit though (Y)
+
 # Prompt Creator
 
 An AI-powered prompt engineering assistant. No backend, no API key — runs anywhere.
